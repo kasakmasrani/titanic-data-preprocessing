@@ -1,4 +1,3 @@
-# titanic-data-preprocessing
 # Titanic Data Cleaning & Preprocessing
 
 ## Overview
